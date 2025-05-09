@@ -1,0 +1,6 @@
+@WebApplicationBlockingCollection_HostAddress = http://localhost:5074
+
+GET {{WebApplicationBlockingCollection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
